@@ -52,6 +52,7 @@ Example      Description
 ============ ========================================================
 bounce.py    Display a bouncing ball animation and frames per second
 clock.py     An analog clockface with date & time
+crawl.py     A vertical scrolling demo, which should be familiar
 demo.py      Use misc draw commands to create a simple image
 invaders.py  Space Invaders demo
 maze.py      Maze generator
